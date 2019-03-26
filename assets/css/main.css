@@ -12,6 +12,8 @@ input{
   border-radius: 5px;
   padding: 10px;
   border: 0.5px solid grey;
+  margin-bottom: 20px;
+
 }
  #submit{
    background: blue;
@@ -23,4 +25,15 @@ input{
 
 body{
   background: lightgrey;
+}
+a {
+  color: rgb(10, 204, 218);
+  text-decoration: none;
+}
+/* #phone-label {
+  padding-top: 20px;
+  padding-bottom: 20px;
+} */
+.text-muted{
+  background: lightgray;
 }
