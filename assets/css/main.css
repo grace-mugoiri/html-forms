@@ -1,4 +1,26 @@
 .container{
-  /* margin: 0 auto; */
+  margin: 0 auto;
+  border: 1px solid grey;
+  width: 430px;
   text-align: center;
+  margin-top: 80px;
+  background: whitesmoke;
+}
+
+input{
+  width: 400px;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0.5px solid grey;
+}
+ #submit{
+   background: blue;
+   color: white;
+   border: none;
+   margin-top: 20px;
+   margin-bottom: 50px;
+ }
+
+body{
+  background: lightgrey;
 }
