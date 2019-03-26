@@ -25,15 +25,25 @@ input{
 
 body{
   background: lightgrey;
+  font-family: 'Roboto', sans-serif;
 }
 a {
   color: rgb(10, 204, 218);
   text-decoration: none;
 }
-/* #phone-label {
-  padding-top: 20px;
-  padding-bottom: 20px;
-} */
 .text-muted{
   background: lightgray;
+}
+
+.wrapper li{
+  display: inline-block;
+
+}
+
+.wrapper{
+  text-align: center;
+}
+
+.wrapper a{
+  color: black;
 }
