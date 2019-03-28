@@ -1,10 +1,14 @@
+
+.form-inputs{
+ margin: 0 auto;
+ background: whitesmoke;  
+ border: 1px solid grey;
+ width: 400px;
+ text-align: center;
+ margin-top: 80px;
+}
 .container{
   margin: 0 auto;
-  border: 1px solid grey;
-  width: 430px;
-  text-align: center;
-  margin-top: 80px;
-  background: whitesmoke;
 }
 
 input{
@@ -47,13 +51,11 @@ a {
 .wrapper a{
   color: black;
 }
-.upper li {
-  /* align-items: center; */
+.upper li{
+  list-style: none;
   display: inline;
-  /* margin: 0 4 0 0 */
-  
 }
 
-
-
-
+.upper{
+  display: flex;
+}
