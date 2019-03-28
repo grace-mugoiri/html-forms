@@ -1,4 +1,41 @@
-.container{
+.sign-in{
+  float: right;
+  margin: 20px 20px 20px 20px;
+ 
+}
+.sign-in p{
+  line-height: 0.7px;
+}
+button{
+  background:darkblue;
+  color: white;
+  border-radius: 8px;
+  width: 100px;
+}
+#forgot{
+  color: rgb(16, 174, 218);
+}
+.header-icons img{
+  width: 118px; 
+  height: 35px;
+  /* margin-left: 300px;
+  margin-right: 300px; */
+  margin-bottom: 140px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* .container{
   margin: 0 auto;
   border: 1px solid grey;
   width: 430px;
@@ -52,7 +89,7 @@ a {
   display: inline;
   /* margin: 0 4 0 0 */
   
-}
+} */
 
 
 
